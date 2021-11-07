@@ -18,6 +18,8 @@
        yarn add aws-amplify @aws-amplify/ui-react
    ```
 
+4. `@aws-amplify/ui-react` 의 컴포넌트들을 통한 인증기능 구현
+
 ---
 
 ## References
